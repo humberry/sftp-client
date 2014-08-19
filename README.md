@@ -4,4 +4,4 @@ sftp-client
 simple sftp client
 
 - no error handling
-- only upload / download
+- upload, download, delete, mkdir and rename
